@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1e9b1f3-17d7-4067-83b3-1a5c4c536213" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/login/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a1e9b1f3-17d7-4067-83b3-1a5c4c536213" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +137,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-113">
+            <state relative-caret-position="15">
               <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
@@ -205,26 +201,6 @@
           <expand>
             <path>
               <item name="yichen_django2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yichen_django2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yichen_django2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yichen_django2" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yichen_django2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yichen_django2" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yichen_django2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yichen_django2" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yichen_django2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yichen_django2" type="462c0819:PsiDirectoryNode" />
               <item name="yichen_django2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -297,17 +273,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="223" y="134" width="922" height="658" extended-state="0" />
-    <editor active="true" />
+    <frame x="503" y="69" width="922" height="658" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" weight="0.3286219" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32685512" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.42756185" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.42756185" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -391,7 +366,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
+        <state relative-caret-position="15">
           <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
